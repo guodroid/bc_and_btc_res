@@ -1,6 +1,4 @@
-# 区块链和比特币
-
-##相关学习资源
+# 区块链和比特币相关学习资源
 
 ### 中本聪的白皮书
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
@@ -23,29 +21,6 @@
 - 说明：中本聪曾经在这里发帖、讨论，一般认为是官方论坛。
 
 ### Nathaniel Popper 比特币鲜为人知的故事
-- [数字黄金--中文](https://item.m.jd.com/product/12048555.html?wxa_abtest=a&utm_source=iosapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL&ad_od=share&utm_user=plusmember)
+- [数字黄金--中文](https://item.jd.com/12048555.html)
 - [Digital Gold --英文](https://github.com/guodroid/bc_and_btc_res/resources/digital-gold-nathaniel-popper.pdf)
 - 用讲故事的方式，记录下比特币早期的点点滴滴，从蹒跚学步、初出茅庐、扬名江湖。
-
-
-# TODO：
-
-##开源代码
-
-bitcore
-jbitcoin
-
-按语言分类：
-js, python, go, java, rust.
-
-按流行排名：
-
-微信公众号：
-数字货币趋势狂人
-
-
-交易平台、价格查询
-
-# 数据库
-参考：
-https://docs.bitdb.network/docs/bitdb
