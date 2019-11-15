@@ -22,5 +22,5 @@
 
 ### Nathaniel Popper 比特币鲜为人知的故事
 - [数字黄金--中文](https://item.jd.com/12048555.html)
-- [Digital Gold --英文](https://github.com/guodroid/bc_and_btc_res/resources/digital-gold-nathaniel-popper.pdf)
+- [Digital Gold --英文](https://github.com/guodroid/bc_and_btc_res/blob/master/resources/digital-gold-nathaniel-popper.pdf)
 - 用讲故事的方式，记录下比特币早期的点点滴滴，从蹒跚学步、初出茅庐、扬名江湖。
